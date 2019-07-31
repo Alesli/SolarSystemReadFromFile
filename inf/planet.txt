@@ -1,0 +1,9 @@
+sun ; order ; name ; type; inhabitable ; population
+1 ; 1 ; mercury ; stone ; false ; 0
+1 ; 2 ; venus   ; stone ; false ; 0
+1 ; 3 ; earth   ; stone ; true  ; 7500000000
+1 ; 4 ; mars    ; stone ; false ; 0
+1 ; 5 ; jupiter ; gas   ; false ; 0
+1 ; 6 ; saturn  ; gas   ; false ; 0
+1 ; 7 ; uranus  ; gas   ; false ; 0
+1 ; 8 ; neptune ; gas   ; false ; 0
